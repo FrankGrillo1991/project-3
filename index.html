@@ -8,6 +8,46 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    
+    <form action="/my-handling-form-page" method="post">
+        <ul>
+            <li>
+                <label for="name">Full Name</label>
+                <input type="text" id="name" name="user_name" required/>
+            </li>
+
+            <li>
+                <label for="mail">Email Address</label>
+                <input type="email" id="email" name="user_email" />
+            </li>
+
+            <li>
+                <label for="tel">Phone Number</label>
+                <input type="tel" id="tel" name="user_tel" />
+            </li>
+
+            <li>
+                <label for="address">Street Address</label>
+                <input type="address" id="address" name="user_address" />
+            </li>
+
+            <li>
+                <label for="city">City</label>
+                <input type="city" id="city" name="user_city" />
+            </li>
+
+            <label for="newsletters">Select the newsletters you would like to receive</label>
+
+            <input type="checkbox" id="html" name="html" value="HTML News">
+            <label for="html">HTML News</label><br>
+            <input type="checkbox" id="css" name="css" value="CSS News">
+            <label for="css">CSS News</label><br>
+            <input type="checkbox" id="javascript" name="javascript" value="Javascript News">
+            <label for="javascript">JavaScript News</label><br>
+
+            <li class="button">
+                <button type="submit">Sign Up</button>
+            </li>
+        </ul>
+    </form>
 </body>
 </html>
