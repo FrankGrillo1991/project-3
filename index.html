@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+    <h1>The Code Review</h1>
+    <h2>Signup for our newsletter</h2>
+    <p>Get the latest news on how your code is doing right in your inbox</p>
     <form action="/my-handling-form-page" method="post">
         <ul>
             <li>
@@ -35,19 +38,60 @@
                 <input type="city" id="city" name="user_city" />
             </li>
 
-            <label for="newsletters">Select the newsletters you would like to receive</label>
+            <li>
+                <label for="state">State</label>
 
+                <select name="state" id="state">
+                    <option value="state">Choose State</option>
+                </select>
+            </li>
+
+            <li>
+                <label for="zip">Zip Code</label>
+                <input type="zip" id="zip" name="user_zip" />
+            </li>
+        </ul>
+        <ul>
+            <label for="newsletters">Select the newsletters you would like to receive</label>
+            <li>
             <input type="checkbox" id="html" name="html" value="HTML News">
             <label for="html">HTML News</label><br>
+            </li>
+            <li>
             <input type="checkbox" id="css" name="css" value="CSS News">
             <label for="css">CSS News</label><br>
+            </li>
+            <li>
             <input type="checkbox" id="javascript" name="javascript" value="Javascript News">
             <label for="javascript">JavaScript News</label><br>
+            </li>
+        </ul>
+
+        <ul>
+            <label for="format">Newsletter Format</label>
+            <li>
+            <input type="radio" id="html" name="newsletter_format" value="HTML">
+            <label for="html">HTML</label>
+            </li>
+            <li>
+            <input type="radio" id="plain" name="newsletter_format" value="Plain text">
+            <label for="plain">Plain text</label>
+            </li>
+        </ul>
+
+            <li>
+                <label for="msg">Other topics you'd like to hear about</label>
+                <textarea id="msg" name="user_message"></textarea>
+            </li>
 
             <li class="button">
                 <button type="submit">Sign Up</button>
             </li>
+
         </ul>
+        <footer>
+            &copy;Copyright The Code Review
+        </footer>
     </form>
 </body>
 </html>
