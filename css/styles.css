@@ -25,11 +25,10 @@ fieldset {
 }
 
 legend {
-    background-color: gray;
-    color: white;
-    padding: 5px 10px;
-    display: flex;
-    text-align: center;
+    display: block;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: none;
 }
 
 input {
