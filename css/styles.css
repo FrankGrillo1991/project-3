@@ -1,22 +1,19 @@
 form {
     /* Center the form on the page */
     margin: 0 auto;
-    width: 400px;
+    max-width: 100%;
     /* Form outline */
     padding: 1em;
     border: 1px solid #ccc;
     border-radius: 1em;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+header {
+    height: 
+    text-align: auto;
+    background-color: green;
 }
 
-form li + li {
-    margin-top: 1em;
-}
 
 label {
     /* Uniform size & alignment */
