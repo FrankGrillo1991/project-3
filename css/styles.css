@@ -3,6 +3,7 @@
     margin: 0 auto;
     max-width: 100%;
     /* Form outline */
+    display: flex;
     padding: 1em;
     border: 1px solid #ccc;
     border-radius: 1em;
@@ -10,9 +11,8 @@
 }
 
 header {
-    height: 
-    text-align: center;
     background-color: green;
+    display: block;
 }
 
 fieldset {
@@ -23,6 +23,7 @@ legend {
     background-color: gray;
     color: white;
     padding: 5px 10px;
+    display: flex;
     text-align: center;
 }
 
@@ -48,6 +49,10 @@ label {
     display: flex;
     max-width: 100%;
     text-align: center;
+}
+
+.radio {
+    display: flex;
 }
 
 input,
