@@ -10,10 +10,27 @@ form {
 
 header {
     height: 
-    text-align: auto;
+    text-align: center;
     background-color: green;
 }
 
+fieldset {
+    background-color: #eee;
+}
+
+legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+}
+
+input {
+    margin: 5px;
+}
+
+h2 {
+    text-align: center;
+}
 
 label {
     /* Uniform size & alignment */
