@@ -1,4 +1,4 @@
-form {
+.form-group {
     /* Center the form on the page */
     margin: 0 auto;
     max-width: 100%;
@@ -28,7 +28,16 @@ input {
     margin: 5px;
 }
 
+h1 {
+    text-align: center;
+}
+
 h2 {
+    text-align: center;
+}
+
+.contact {
+    display: flex;
     text-align: center;
 }
 
