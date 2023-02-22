@@ -6,11 +6,15 @@ body {
     max-width: 1100px;
     padding: 10px;
     margin: 0 auto;
+    flex-direction: column;
 }
 
 header {
     background-color: green;
     display: block;
+}
+.p {
+    text-align: center;
 }
 
 fieldset {
@@ -24,11 +28,17 @@ fieldset {
     border: 2px;
 }
 
+.form-check {
+    display: flex;
+    flex-direction: column;
+}
+
 legend {
     display: block;
     padding-left: 2px;
     padding-right: 2px;
     border: none;
+    flex-direction: column;
 }
 
 input [type=text] {
@@ -53,8 +63,14 @@ h2 {
     text-align: center;
 }
 
+.form-check {
+    display: flex;
+    flex-direction: column;
+}
+
 .contact {
     display: flex;
+    flex-direction: column;
     text-align: center;
 }
 
@@ -67,6 +83,7 @@ label {
 
 .radio {
     display: flex;
+    flex-direction: column;
 }
 
 input,
@@ -97,12 +114,13 @@ textarea {
     height: 5em;
 }
 
-button {
-    /* Align buttons with the text fields */
-    padding-left: 90px; /* Same size as the label elements */
+.submit {
+    display: flex;
+    flex-direction: column;
 }
 
-button {
-    /* This extra margin represent roughly the same space as the space between the labels and their text fields */
-    margin-left: 0.5em;
+
+.footer {
+    display: flex;
+    flex-direction: column;
 }
