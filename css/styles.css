@@ -63,41 +63,37 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    text-align: left;
+}
+
 .form-check {
     display: flex;
-    flex-direction: column;
 }
 
 .contact {
     display: flex;
     flex-direction: column;
     text-align: center;
+    margin: 5px;
 }
 
 label {
     /* Uniform size & alignment */
     display: flex;
+    flex-direction: column;
     max-width: 100%;
     text-align: center;
+    margin: 5px;
+    padding: 5px;
 }
 
 .radio {
     display: flex;
-    flex-direction: column;
 }
 
-input,
-textarea {
-    /* To make sure that all text fields have the same font settings
-    By default, textareas have a monospace font */
-    font: 1em sans-serif;
-
-    /* Uniform text field size */
-    max-width: 100%;
-    box-sizing: border-box;
-
-    /* Match form field borders */
-    border: 1px solid #999;
+input[type="text"], textarea {
+    background-color: green;
 }
 
 input:focus,
@@ -113,6 +109,9 @@ textarea {
     /* Provide space to type some text */
     height: 5em;
 }
+.input {
+    background-color: green;
+}
 
 .submit {
     display: flex;
@@ -120,7 +119,8 @@ textarea {
 }
 
 
-.footer {
+footer {
     display: flex;
     flex-direction: column;
 }
+
