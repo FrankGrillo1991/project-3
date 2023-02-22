@@ -93,7 +93,7 @@ label {
 }
 
 input[type="text"], textarea {
-    background-color: green;
+    background-color: #cccccc;
 }
 
 input:focus,
