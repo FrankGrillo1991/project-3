@@ -30,7 +30,7 @@ fieldset {
 
 .form-check {
     display: flex;
-    flex-direction: column;
+    flex-direction: left;
 }
 
 .checkbox,
