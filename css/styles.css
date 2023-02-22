@@ -33,6 +33,11 @@ fieldset {
     flex-direction: column;
 }
 
+.checkbox,
+.radio-button {
+    display: block;
+}
+
 legend {
     display: block;
     padding-left: 2px;
