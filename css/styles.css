@@ -92,9 +92,6 @@ label {
     padding: 5px;
 }
 
-.radio {
-    display: flex;
-}
 
 input[type="text"], textarea {
     background-color: #cccccc;
