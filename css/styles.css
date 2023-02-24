@@ -65,6 +65,8 @@ input [type=submit] {
     border: none;
     cursor: pointer;
     border-radius: 5px;
+    width: 5px;
+    height: 5px;
 }
 
 h1 {
