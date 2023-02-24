@@ -47,6 +47,7 @@ legend {
     padding-right: 10px;
     border: none;
     flex-direction: column;
+    width: 80%;
 }
 
 input::placeholder {
