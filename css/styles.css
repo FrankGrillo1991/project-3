@@ -60,7 +60,6 @@ input [type=text] {
    border: 2px solid #cccccc;
    border-radius: 5px;
    font-size: 20px;
-   float: right;
 }
 
 .signupbtn {
@@ -99,7 +98,8 @@ h6 {
 
 label {
     /* Uniform size & alignment */
-    display: flex;
+    display: inline-block;
+    width: 110px;
     flex-direction: column;
     max-width: 100%;
     text-align: left;
