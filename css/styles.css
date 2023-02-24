@@ -126,6 +126,8 @@ textarea {
 .submit {
     display: flex;
     flex-direction: column;
+    height: 2px;
+    width: 5px;
 }
 
 
