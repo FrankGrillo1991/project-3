@@ -46,6 +46,10 @@ legend {
     flex-direction: column;
 }
 
+.required {
+    text-align: right;
+}
+
 input [type=text] {
    padding: 5px; 
    height: 5px;
