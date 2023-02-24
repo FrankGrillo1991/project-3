@@ -46,7 +46,7 @@ legend {
     flex-direction: column;
 }
 
-.required {
+input::placeholder {
     text-align: right;
 }
 
