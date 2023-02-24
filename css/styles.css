@@ -28,6 +28,7 @@ fieldset {
     padding-left: 0.75em;
     padding-right: 0.75em;
     border: 2px;
+    width: 50%;
 }
 
 .form-check {
@@ -57,7 +58,6 @@ input [type=text] {
    height: 5px;
    border: 2px solid #cccccc;
    border-radius: 5px;
-   width: 50%;
 }
 
 .signupbtn {
