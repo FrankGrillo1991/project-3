@@ -123,11 +123,6 @@ textarea {
     height: 5em;
 }
 
-input[type=submit] {
-    height: 10px;
-    width: 10px;
-}
-
 
 footer {
     display: flex;
