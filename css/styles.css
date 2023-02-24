@@ -60,13 +60,9 @@ input [type=text] {
 }
 
 input [type=submit] {
-    padding: 5px 15px;
-    background-color: green;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
+    height: 2px;
     width: 5px;
-    height: 5px;
+    background-color: green;
 }
 
 h1 {
