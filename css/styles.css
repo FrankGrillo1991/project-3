@@ -54,7 +54,7 @@ input::placeholder {
     text-align: right;
 }
 
-input [type=text], .tel, .email {
+input [type=text] {
    padding: 10px; 
    height: 10px;
    border: 2px solid #cccccc;
