@@ -48,6 +48,7 @@ legend {
 
 input [type=text] {
    padding: 5px; 
+   height: 5px;
    border: 2px solid #cccccc;
    border-radius: 5px;
 }
