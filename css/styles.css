@@ -54,8 +54,8 @@ input::placeholder {
 }
 
 input [type=text] {
-   padding: 5px; 
-   height: 5px;
+   padding: 10px; 
+   height: 10px;
    border: 2px solid #cccccc;
    border-radius: 5px;
 }
