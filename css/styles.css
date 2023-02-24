@@ -43,8 +43,8 @@ fieldset {
 
 legend {
     display: block;
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
     border: none;
     flex-direction: column;
 }
