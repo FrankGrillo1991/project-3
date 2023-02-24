@@ -57,6 +57,7 @@ input [type=text] {
    height: 5px;
    border: 2px solid #cccccc;
    border-radius: 5px;
+   width: 50%;
 }
 
 .signupbtn {
