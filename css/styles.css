@@ -61,9 +61,6 @@ input [type=text] {
    border-radius: 5px;
    font-size: 20px;
 }
-.zip {
-    width: 50%;
-}
 
 .signupbtn {
     width: 100%;
