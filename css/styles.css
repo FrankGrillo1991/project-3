@@ -123,7 +123,7 @@ textarea {
     height: 5em;
 }
 
-input [type=button] input [type=submit] {
+input [type=submit] {
     height: 2px;
     width: 5px;
 }
