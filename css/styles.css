@@ -95,6 +95,7 @@ h6 {
     flex-direction: column;
     text-align: left;
     margin: 5px;
+    border-bottom: solid green;
 }
 
 label {
