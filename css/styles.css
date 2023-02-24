@@ -17,6 +17,7 @@ header {
 }
 .p {
     text-align: center;
+    border: solid green;
 }
 
 fieldset {
