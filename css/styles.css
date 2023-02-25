@@ -122,6 +122,10 @@ textarea:focus {
     border-color: #000;
 }
 
+select:focus {
+    background-color: #000 ;
+}
+
 textarea {
     /* Align multiline text fields with their labels */
     vertical-align: top;
