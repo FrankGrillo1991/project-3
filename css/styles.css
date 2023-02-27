@@ -147,16 +147,7 @@ footer {
     #zip {
         width: 50%;
     }
-
-    .container {
-        flex-direction: row;
-    }
-    legend {
-        flex-direction: row;
-    }
-    .contact {
-        flex-direction: row;
-    }
+    
 }
 
 
