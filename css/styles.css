@@ -151,6 +151,9 @@ footer {
     .container {
         flex-direction: row;
     }
+    legend {
+        flex-direction: row;
+    }
 }
 
 
