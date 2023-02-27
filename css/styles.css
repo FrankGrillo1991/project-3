@@ -143,6 +143,16 @@ footer {
     text-align: center;
     padding: 10px;
 }
+@media and (min-width: 768px) {
+    .zip {
+        width: 50%;
+    }
+}
 
+@media and (min-width: 1024px) {
+    .zip {
+        width: 25%;
+    }
+}
 
 
