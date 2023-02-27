@@ -148,7 +148,7 @@ footer {
         width: 50%;
     }
     .label {
-        flex-direction: column-reverse;
+        flex-direction: row;
     }
 }
 
