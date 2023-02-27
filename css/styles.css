@@ -147,6 +147,10 @@ footer {
     #zip {
         width: 50%;
     }
+
+    .container {
+        flex-direction: row;
+    }
 }
 
 
