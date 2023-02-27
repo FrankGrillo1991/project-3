@@ -149,10 +149,4 @@ footer {
     }
 }
 
-@media screen and (min-width: 1024px) {
-    #zip {
-        width: 25%;
-    }
-}
-
 
