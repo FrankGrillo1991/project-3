@@ -106,6 +106,7 @@ label {
     display: inline-block;
     width: 110px;
     flex-direction: row;
+    align-items: stretch;
     max-width: 100%;
     text-align: right;
     margin: 5px;
