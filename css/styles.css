@@ -154,6 +154,9 @@ footer {
     legend {
         flex-direction: row;
     }
+    .contact {
+        flex-direction: row;
+    }
 }
 
 
