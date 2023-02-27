@@ -108,7 +108,7 @@ label {
     flex-direction: row;
     align-items: stretch;
     max-width: 100%;
-    text-align: right;
+    text-align: left;
     margin: 5px;
     padding: 5px;
 }
