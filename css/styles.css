@@ -147,7 +147,7 @@ footer {
     #zip {
         width: 50%;
     }
-    .contact {
+    .label {
         flex-direction: column-reverse;
     }
 }
