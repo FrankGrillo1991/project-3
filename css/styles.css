@@ -105,7 +105,7 @@ label {
     /* Uniform size & alignment */
     display: inline-block;
     width: 110px;
-    flex-direction: row;
+    flex-direction: column-reverse;
     max-width: 100%;
     text-align: left;
     margin: 5px;
