@@ -122,6 +122,7 @@ label {
 
 input[type="text"], textarea {
     background-color: #cccccc;
+    padding: 0;
 }
 
 input:focus,
