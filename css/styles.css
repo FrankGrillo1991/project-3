@@ -122,7 +122,6 @@ label {
 
 input[type="text"], textarea {
     background-color: #cccccc;
-    padding: 0;
 }
 
 input:focus,
@@ -178,7 +177,6 @@ footer {
     #phone {
         width: 75%;
         background-color: #cccccc;
-        padding: 0;
     }
 
     #address {
