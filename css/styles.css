@@ -22,7 +22,7 @@ header {
 }
 
 fieldset {
-    display: column;
+    display: flex;
     margin-left: 2px;
     margin-right: 2px;
     padding-top: 0.35em;
