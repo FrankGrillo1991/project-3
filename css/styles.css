@@ -168,11 +168,12 @@ footer {
 
     #email {
         width: 100%;
-        flex-direction: row;
+        background-color: #cccccc;
     }
 
     #phone {
         width: 100%;
+        background-color: #cccccc;
     }
 
     #address {
