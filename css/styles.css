@@ -22,7 +22,7 @@ header {
 }
 
 fieldset {
-    display: inline-block;
+    display: column;
     margin-left: 2px;
     margin-right: 2px;
     padding-top: 0.35em;
@@ -34,7 +34,7 @@ fieldset {
 
 .form-check {
     display: flex;
-    flex-direction: column;
+    flex-direction: left;
 }
 
 .checkbox,
@@ -113,7 +113,6 @@ label {
 }
 
 #zip {
-    width: 40%;
 }
 
 
