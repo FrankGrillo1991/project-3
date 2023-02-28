@@ -1,6 +1,6 @@
 body {
     margin: 0 auto;
-    width: 100%;
+    max-width: 1024px;
     font-family: 'IBM Plex Sans', sans-serif;
 }
 .container {
