@@ -113,6 +113,10 @@ label {
     padding: 5px;
 }
 
+#zip {
+    width: 25%;
+}
+
 
 input[type="text"], textarea {
     background-color: #cccccc;
