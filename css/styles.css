@@ -166,7 +166,7 @@ footer {
     }
 
     #name {
-        width: 75%;
+        width: 90%;
     }
 
     #email {
@@ -175,20 +175,20 @@ footer {
     }
 
     #phone {
-        width: 75%;
+        width: 90%;
         background-color: #cccccc;
     }
 
     #address {
-        width: 75%;
+        width: 90%;
     }
 
     #city {
-        width: 75%;
+        width: 90%;
     }
 
     #state {
-        width: 75%;
+        width: 90%;
     }
 
 }
