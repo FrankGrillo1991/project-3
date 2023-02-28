@@ -166,29 +166,29 @@ footer {
     }
 
     #name {
-        width: 60%;
+        width: 75%;
     }
 
     #email {
-        width: 60%;
+        width: 75%;
         background-color: #cccccc;
     }
 
     #phone {
-        width: 60%;
+        width: 75%;
         background-color: #cccccc;
     }
 
     #address {
-        width: 60%;
+        width: 75%;
     }
 
     #city {
-        width: 60%;
+        width: 75%;
     }
 
     #state {
-        width: 60%;
+        width: 75%;
     }
 
 }
