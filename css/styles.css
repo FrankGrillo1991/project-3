@@ -177,7 +177,6 @@ footer {
     #phone {
         width: 75%;
         background-color: #cccccc;
-        flex-direction: row;
     }
 
     #address {
