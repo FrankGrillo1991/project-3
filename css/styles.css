@@ -153,11 +153,7 @@ footer {
         flex-direction: row;
     }
 
-    .label {
-        width: 100%;
-    }
-
-    .input {
+    #name {
         width: 100%;
     }
 }
