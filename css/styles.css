@@ -150,7 +150,6 @@ footer {
     }
     .contact {
         flex-direction: row;
-        width: 100%;
     }
 }
 
