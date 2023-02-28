@@ -114,7 +114,7 @@ label {
 }
 
 #zip {
-    width: 25%;
+    width: 50%;
 }
 
 
@@ -155,7 +155,7 @@ footer {
         height: 10px;
     }
     #zip {
-        width: 50%;
+        width: 25%;
     }
 
     .contact {
