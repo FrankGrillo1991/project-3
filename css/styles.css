@@ -181,6 +181,7 @@ footer {
 
     #address {
         width: 90%;
+        white-space: nowrap;
     }
 
     #city {
