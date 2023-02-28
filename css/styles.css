@@ -152,6 +152,7 @@ footer {
     .label {
         margin: 5px;
         padding: 5px;
+        height: 10px;
     }
     #zip {
         width: 50%;
