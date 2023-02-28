@@ -148,8 +148,13 @@ footer {
     #zip {
         width: 50%;
     }
+
     .contact {
         flex-direction: row;
+    }
+
+    .name {
+        width: 100%;
     }
 }
 
