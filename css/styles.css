@@ -160,6 +160,23 @@ footer {
     #email {
         width: 100%;
     }
+
+    #phone {
+        width: 100%;
+    }
+
+    #address {
+        width: 100%;
+    }
+
+    #city {
+        width: 100%;
+    }
+
+    #state {
+        width: 100%;
+    }
+
 }
 
 
