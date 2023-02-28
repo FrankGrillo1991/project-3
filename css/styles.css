@@ -138,6 +138,7 @@ textarea {
     /* Provide space to type some text */
     height: 5em;
     width: 100%;
+    text-align: left;
 }
 
 
