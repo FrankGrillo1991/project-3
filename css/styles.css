@@ -181,7 +181,6 @@ footer {
 
     #address {
         width: 90%;
-        white-space: nowrap;
     }
 
     #city {
@@ -190,6 +189,10 @@ footer {
 
     #state {
         width: 90%;
+    }
+
+    field.text label {
+        white-space: nowrap;
     }
 
 }
