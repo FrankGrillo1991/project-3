@@ -116,6 +116,12 @@ label {
     width: 50%;
 }
 
+fieldset:first-of-type input,
+    fieldset:first-of-type select {
+        height: 40px;
+        flex-basis: 70%;
+        flex-grow: 1;
+    }
 
 input[type="text"], textarea {
     background-color: #cccccc;
