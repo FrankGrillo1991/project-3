@@ -199,7 +199,7 @@ footer {
 
     fieldset:first-of-type input,
     fieldset:first-of-type select {
-        height: 40px;
+        height: 30px;
         flex-basis: 70%;
         flex-grow: 1;
     }
