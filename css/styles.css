@@ -156,7 +156,7 @@ footer {
         height: 10px;
     }
     #zip {
-        width: 20%;
+        max-width: 20%;
     }
 
     .contact {
@@ -200,6 +200,8 @@ footer {
     fieldset:first-of-type input,
     fieldset:first-of-type select {
         height: 40px;
+        flex-basis: 70%;
+        flex-grow: 1;
     }
 
 }
