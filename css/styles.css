@@ -118,7 +118,7 @@ label {
 
 fieldset:first-of-type  input,
     fieldset:first-of-type  select {
-        height: 60px;
+        height: 40px;
         flex-basis: 70%;
         flex-grow: 1;
     }
@@ -201,13 +201,6 @@ footer {
     fieldset:first-of-type  label {
         flex-basis: 25%;
         margin: auto 0;
-    }
-
-    fieldset:first-of-type  input,
-    fieldset:first-of-type  select {
-        height: 40px;
-        flex-basis: 70%;
-        flex-grow: 1;
     }
 
 
