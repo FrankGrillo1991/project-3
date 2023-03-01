@@ -116,11 +116,9 @@ label {
     width: 50%;
 }
 
-fieldset:first-of-type input,
-    fieldset:first-of-type select {
+fieldset:first-of-type  input,
+    fieldset:first-of-type  select {
         height: 40px;
-        flex-basis: 70%;
-        flex-grow: 1;
     }
 
 input[type="text"], textarea {
@@ -198,7 +196,7 @@ footer {
         width: 100%;
     }
 
-    fieldset:first-of-type label {
+    fieldset:first-of-type  label {
         flex-basis: 25%;
         margin: auto 0;
     }
