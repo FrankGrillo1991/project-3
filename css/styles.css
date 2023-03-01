@@ -118,7 +118,7 @@ label {
 
 fieldset:first-of-type input,
     fieldset:first-of-type select {
-        height: 30px;
+        height: 25px;
         flex-basis: 70%;
         flex-grow: 1;
     }
